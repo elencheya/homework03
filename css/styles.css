@@ -194,7 +194,10 @@ ul{
     display: flex;
     gap: 30px;
 }
-
+.about{
+    padding-top: 94px;
+    padding-bottom: 0px;
+}
 .about-container{
     display: flex;
 }
